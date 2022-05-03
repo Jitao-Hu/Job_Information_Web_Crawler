@@ -25,10 +25,10 @@ You can run the project in terminal or IDEs, at first, it will ask for a skill t
 IV.Future Development
 
 
-  1.This web crawler can only scrapes information from a single web page, maybe we can manage to get the information from multile pages
+  1.This web crawler can only scrapes information from a single web page, maybe we can manage to get the information from multile pages.
   
   
-  2.This crawler will not delete old (outdated) text file, we can implement related function
+  2.This crawler will not delete old (outdated) text file, we can implement related function.
   
   
   to be updated...
